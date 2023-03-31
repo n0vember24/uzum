@@ -1,0 +1,11 @@
+django
+psycopg2-binary
+pillow
+django-mptt
+djangorestframework
+djangorestframework-simplejwt
+twilio
+django-filter
+drf-yasg
+pymemcache
+django-jazzmin
