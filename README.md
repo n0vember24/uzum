@@ -1,7 +1,7 @@
 # Uzum Copy(Clone)
 ## Information
 
-This is a clone of popular in Uzbekistan online shop "Uzum"
+This is a clone of the popular online store of Uzbekistan "Uzum"
 
 ## Installation and running
 
